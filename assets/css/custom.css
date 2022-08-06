@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap");
+
+* {
+  font-family: "Open Sans", "Noto Sans JP", sans-serif !important;
+}
+
+.site-title,
+.gh-head-logo {
+  font-family: "Poppins", "Noto Sans JP", sans-serif !important;
+}
+
+.site-footer {
+  background: #333;
+}
